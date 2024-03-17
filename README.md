@@ -1,0 +1,1 @@
+![SweetAlert2](https://raw.github.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png)

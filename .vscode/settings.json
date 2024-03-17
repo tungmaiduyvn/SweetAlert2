@@ -1,0 +1,11 @@
+{
+  "tslint.exclude": [
+    "**/*.ts",
+    "**/*.tsx"
+  ],
+  "cSpell.words": [
+    "sweetalert2",
+    "swal"
+  ],
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
